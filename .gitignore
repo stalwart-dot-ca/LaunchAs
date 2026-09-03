@@ -1,0 +1,7 @@
+# Ignore build artifacts
+*.obj
+*.pdb
+*.exp
+*.lib
+*.log
+*.cred
